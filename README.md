@@ -56,7 +56,7 @@ Academic Result Portal is a web-based application developed using PHP and MySQL 
 
 ## 🎥 Demo Video
 
-(Add video link here)
+[(Demo Video Link)](https://drive.google.com/drive/folders/1rpA6xsFlt033cmPWEh_M1mxqV95Z3bvq?usp=drive_link)
 
 ---
 
