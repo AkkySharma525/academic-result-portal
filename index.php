@@ -1,3 +1,3 @@
 <?php
-echo "My first PHP project is running!";
+header("Location: login.php");
 ?>
