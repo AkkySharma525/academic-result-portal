@@ -42,6 +42,14 @@ Academic Result Portal is a web-based application developed using PHP and MySQL 
 
 ## 📷 Screenshots
 
+### 🔐 Login Page
+![Login](login.png)
+
+### 🏠 Dashboard
+![Dashboard](dashboard.png)
+
+### 📊 Result Page
+![Result](result.png)
 
 
 ---
